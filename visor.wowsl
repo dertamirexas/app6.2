@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>cube,domino</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/catalyst_digital/</ImageTemplate>
+            <ImageTemplateName>Catalyst Digital</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>E:/ /DAM/3Parcial/apps/app6/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>E:/ /DAM/3Parcial/apps/app6</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#3c506b</TemplateColor>
+            <TemplateFont>Cuprum</TemplateFont>
+            <TemplateName>catalyst_digital</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/antecedente1.jpg</url>
+                <title>antecedente1</title>
+                <filesize>19162</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/bat5may1.jpg</url>
+                <title>bat5may1</title>
+                <filesize>11794</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/bat5may2.jpg</url>
+                <title>bat5may2</title>
+                <filesize>113232</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/batallaatlixco1.jpg</url>
+                <title>batallaatlixco1</title>
+                <filesize>20667</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/batallaatlixco2.jpg</url>
+                <title>batallaatlixco2</title>
+                <filesize>508357</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/benito1.png</url>
+                <title>benito1</title>
+                <filesize>37184</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/benito2.jpg</url>
+                <title>benito2</title>
+                <filesize>21617</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/conce1.jpg</url>
+                <title>conce1</title>
+                <filesize>555817</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/conce2.jpg</url>
+                <title>conce2</title>
+                <filesize>14277</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/conde1.jpg</url>
+                <title>conde1</title>
+                <filesize>44658</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/conde2.jpg</url>
+                <title>conde2</title>
+                <filesize>19226</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/ignacio1.jpg</url>
+                <title>ignacio1</title>
+                <filesize>110157</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/ignacio2.png</url>
+                <title>ignacio2</title>
+                <filesize>146886</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/zacapoatxcla1.jpg</url>
+                <title>zacapoatxcla1</title>
+                <filesize>56821</filesize>
+            </Image>
+            <Image>
+                <url>E:/ /DAM/3Parcial/apps/app6/imagenes/zacapoatxcla2.jpg</url>
+                <title>zacapoatxcla2</title>
+                <filesize>66856</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
